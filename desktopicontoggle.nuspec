@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>desktopicontoggle</id>
+    <version>1.1.0</version>
+    <packageSourceUrl>https://github.com/hexandcube/desktop-icon-toggle-chocolatey</packageSourceUrl>
+    <owners>Hexandcube</owners>
+    <title>Desktop Icon Toggle (Install)</title>
+    <authors>Hexandcube</authors>
+    <projectUrl>https://github.com/hexandcube/desktop-icon-toggle</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/hexandcube/desktop-icon-toggle/master/desktopicontoggle.png</iconUrl>
+    <copyright>2021 Hexandcube</copyright>
+    <licenseUrl>https://raw.githubusercontent.com/hexandcube/desktop-icon-toggle/master/LICENSE.md</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <projectSourceUrl>https://github.com/hexandcube/desktop-icon-toggle</projectSourceUrl>
+    <docsUrl>https://github.com/hexandcube/desktop-icon-toggle</docsUrl>
+    <bugTrackerUrl>https://github.com/hexandcube/desktop-icon-toggle/issues</bugTrackerUrl>
+    <tags>desktopicontoggle</tags>
+    <summary>Desktop Icon Toggle allows you to quickly toggle the visibility of desktop icons by double-clicking the blank space on the desktop</summary>
+    <description>Desktop Icon Toggle is a simple Windows tool, that allows you to quickly toggle the visibility of desktop icons by double-clicking the blank space on the desktop. After installation, launch the app from the start menu or restart your computer. The app will start automatically when you log in to Windows, and can be suspended or disabled in the taskbar.</description>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
