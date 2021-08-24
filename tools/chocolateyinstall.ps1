@@ -1,6 +1,6 @@
 ﻿$ErrorActionPreference = 'Stop'; 
 $toolsDir   = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
-$url        = 'https://github.com/hexandcube/desktop-icon-toggle/releases/download/v.1.1.0/DesktopIconToggle-1.1.0_Setup.exe' 
+$url        = 'https://github.com/hexandcube/desktop-icon-toggle/releases/download/v.1.2.0/DesktopIconToggle-1.2.0_setup.exe' 
 
 $packageArgs = @{
   packageName   = $env:ChocolateyPackageName
@@ -11,7 +11,7 @@ $packageArgs = @{
 
   softwareName  = 'Desktop Icon Toggle' 
 
-  checksum      = '6499FA62BE814CC60DE621C4B10ED937E5F89F16EA2104B43360BF1C3D0EA9DE'
+  checksum      = '90C661F3A1BDA269BCD1C633EC572EB6895BB6F27744C2D8BCA97766A8C01672'
   checksumType  = 'sha256'
   silentArgs   = '/VERYSILENT /SUPPRESSMSGBOXES /NORESTART /SP-'
 }

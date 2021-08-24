@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>desktopicontoggle</id>
-    <version>1.1.0</version>
+    <version>1.2.0</version>
     <packageSourceUrl>https://github.com/hexandcube/desktop-icon-toggle-chocolatey</packageSourceUrl>
     <owners>Hexandcube</owners>
     <title>Desktop Icon Toggle (Install)</title>
