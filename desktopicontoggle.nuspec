@@ -2,14 +2,14 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>desktopicontoggle</id>
-    <version>1.2.0</version>
+    <version>1.3.0</version>
     <packageSourceUrl>https://github.com/hexandcube/desktop-icon-toggle-chocolatey</packageSourceUrl>
     <owners>Hexandcube</owners>
     <title>Desktop Icon Toggle (Install)</title>
     <authors>Hexandcube</authors>
     <projectUrl>https://github.com/hexandcube/desktop-icon-toggle</projectUrl>
     <iconUrl>https://raw.githubusercontent.com/hexandcube/desktop-icon-toggle/master/desktopicontoggle.png</iconUrl>
-    <copyright>2021 Hexandcube</copyright>
+    <copyright>2021 - 2022 Hexandcube</copyright>
     <licenseUrl>https://raw.githubusercontent.com/hexandcube/desktop-icon-toggle/master/LICENSE.md</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <projectSourceUrl>https://github.com/hexandcube/desktop-icon-toggle</projectSourceUrl>
