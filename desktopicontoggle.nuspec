@@ -8,7 +8,7 @@
     <title>Desktop Icon Toggle (Install)</title>
     <authors>Hexandcube</authors>
     <projectUrl>https://github.com/hexandcube/desktop-icon-toggle</projectUrl>
-    <iconUrl>https://raw.githubusercontent.com/hexandcube/desktop-icon-toggle/master/desktopicontoggle.png</iconUrl>
+    <iconUrl>https://cdn.statically.io/gh/hexandcube/desktop-icon-toggle/master/desktopicontoggle.png</iconUrl>
     <copyright>2021 - 2022 Hexandcube</copyright>
     <licenseUrl>https://raw.githubusercontent.com/hexandcube/desktop-icon-toggle/master/LICENSE.md</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
